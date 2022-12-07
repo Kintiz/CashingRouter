@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView5" type="id" />
+    <item name="textView" type="id" />
+    <item name="textView4" type="id" />
+    <item name="progressBar" type="id" />
+    <item name="textView6" type="id" />
+    <item name="textView7" type="id" />
+    <item name="textView10" type="id" />
+    <item name="textView11" type="id" />
+    <item name="returnButton2" type="id" />
+    <item name="button" type="id" />
+    <item name="nomerouter" type="id" />
+    <item name="progressBar7" type="id" />
+    <item name="progressBar3" type="id" />
+    <item name="progressBar4" type="id" />
+    <item name="progressBar5" type="id" />
+    <item name="progressBar6" type="id" />
+    <item name="progressBar2" type="id" />
+    <item name="button3" type="id" />
+    <item name="button2" type="id" />
+    <item name="textView17" type="id" />
+    <item name="returnButton1" type="id" />
+    <item name="textView3" type="id" />
+    <item name="conecaoWIFI" type="id" />
+    <item name="textView2" type="id" />
+    <item name="Uitextb" type="id" />
+    <item name="textp" type="id" />
+    <item name="textb" type="id" />
+    <item name="Uitextby" type="id" />
+</resources>
